@@ -1,0 +1,8 @@
+{
+  "name": "ek help",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

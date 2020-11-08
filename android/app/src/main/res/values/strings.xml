@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ek Help</string>
+    <string name="title_activity_main">Ek Help</string>
+    <string name="package_name">io.ionic.ekhelp</string>
+    <string name="custom_url_scheme">io.ionic.ekhelp</string>
+    <string name="fb_app_id">io.ionic.ekhelp</string>
+    <string name="fb_app_name">io.ionic.ekhelp</string>
+    <string name="multi_app_name">io.ionic.ekhelp</string>
+
+</resources>
